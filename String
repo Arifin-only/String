@@ -1,0 +1,45 @@
+//INI CONTOH PENGGUNAAN TIPE DATA STRING
+// void main(){
+//   String namaAwal = 'Muhammad';
+//   String namaAKhir = "Arifin";
+
+//   print(namaAwal);
+//   print(namaAKhir);
+// }
+
+
+// INI ADALAH INTERPOLATION STRING
+// void main(){
+//   String namaAwal = 'Muhammad';
+//   String namaAKhir = 'Arifin';
+
+//   var gabungNama = '$namaAwal ${namaAKhir}';
+
+//   print(gabungNama);
+// }
+
+//INI ADALAH KARAKTER BACKSLASH
+// void main(){
+//   var text = 'ini adalah bahasa \'dart\' \$keren kan';
+
+//   print(text);
+// }
+
+//INI ADALAH PENGGABUNGAN STRING
+// void main(){
+//   String namaAwal = 'Muhammad';
+//   String namaAKhir = 'Arifin';
+
+//   var nama1 = namaAwal + ' ' + namaAKhir;
+//   var nama2 = 'Muhammad' ' Arifin';
+
+//   print(nama1);
+//   print(nama2);
+// }
+
+
+//INI ADALAH MULTILINE STRING
+// void main(){
+//   String teksPanjang = ''' aku hari ini akan membuat sebuah paragraf yang panjang, kek apatuh''';
+//   print(teksPanjang);
+// }
